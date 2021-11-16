@@ -11,7 +11,7 @@ function setup() {
 function draw() {
 
   fill(0);
-  ellipse(200,200,111,100)
+  ellipse(400,300,111,100)
   //c1.ell1()
     //c1.add()
 

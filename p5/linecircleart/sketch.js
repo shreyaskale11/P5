@@ -92,7 +92,7 @@ class Ell {
 }
 
 function mousePressed(){
-    saveCanvas('D:\Atom\DATA\cardioid\1myCanvas', 'jpg');
+    // saveCanvas('D:\Atom\DATA\cardioid\1myCanvas', 'jpg');
 }
 //var circleResolution = map(mouseY, 0, height, 2, 80);
 //var radius = mouseX - width / 2 + 0.5;
